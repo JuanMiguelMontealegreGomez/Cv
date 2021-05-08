@@ -1,0 +1,23 @@
+img {
+    max-height: 200px;
+    max-width: 200px;
+    margin-top: 20px;
+}
+
+.circulo {
+    border-radius: 30%;
+}
+
+.container {
+    margin-top: 3%;
+    
+}
+
+.my-auto {
+    align-content:center;
+}
+
+body {
+    background-image: url(assets/white.jpg);   
+}
+
